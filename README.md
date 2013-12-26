@@ -1,4 +1,4 @@
-/* CS6301
+/CS6301
 * Section 014
 * Due Date: 2 AM, 09/30/13
 */
