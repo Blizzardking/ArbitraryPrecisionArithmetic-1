@@ -1,5 +1,4 @@
-/** Name: Renkai Ji and Zhuoyi Wang
-* CS6301, Project 2
+/** 
 * Section 014
 * Due Date: 2 AM, 09/30/13
 */
